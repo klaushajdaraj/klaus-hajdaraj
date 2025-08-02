@@ -1,18 +1,18 @@
 # Personal Portfolio Website
 
-A modern, interactive personal portfolio website featuring a 3D badge component and terminal-style interface. Built with cutting-edge web technologies and AI assistance.
+A modern, interactive personal portfolio website featuring a 3D badge component and terminal-style interface. Built with cutting-edge web technologies, powered by AI.
 
 ## 🌟 Features
 
 - **Interactive 3D Badge**: Physics-based draggable badge with realistic rope simulation
-- **Terminal Interface**: Retro terminal-style navigation with command-line portfolio exploration
+- **Terminal Interface**: Retro terminal-style navigation with command-line design
 - **Responsive Design**: Optimized for both desktop and mobile experiences
 - **Modern Tech Stack**: Built with Next.js 14, React Three Fiber, and TypeScript
-- **AI-Powered Development**: Enhanced and optimized using AI assistance
+- **AI-Powered Development**: Enhanced and optimized using AI
 
 ## 🎯 Inspiration
 
-The 3D interactive badge component is inspired by Vercel's innovative [3D event badge implementation](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber). The physics-based rope simulation and draggable interactions showcase modern web capabilities using React Three Fiber.
+The 3D interactive badge component is inspired by Vercel's innovative [3D event badge implementation](https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber).
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,6 @@ The 3D interactive badge component is inspired by Vercel's innovative [3D event 
 
 ### Development Tools
 - **Blender** - 3D model creation and optimization
-- **ESLint** - Code linting
 - **PostCSS** - CSS processing
 
 ### Deployment & Hosting
@@ -101,12 +100,6 @@ klaus-hajdaraj/
 └── styles/              # Global styles
     └── globals.css      # Tailwind CSS styles
 ```
-
-## 📱 Responsive Design
-
-- **Desktop**: Full 3D badge display with terminal interface
-- **Mobile**: Terminal-focused layout with hidden 3D elements for performance
-- **Tablet**: Adaptive layouts for medium screen sizes
 
 ## 📄 License
 
