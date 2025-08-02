@@ -200,7 +200,6 @@ Type 'about' to learn more about me!`
         
         <div className="mb-1">• Data and AI Tirana Meetup</div>
         <div className="mb-1">• CERGE-EI</div>
-        <div className="mb-1">• Epoka University</div>
         <div className="mb-1">• Polytechnic University of Tirana</div>
         <div className="mb-4">• University of Tirana</div>
         
