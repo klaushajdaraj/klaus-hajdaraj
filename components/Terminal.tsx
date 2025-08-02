@@ -133,7 +133,7 @@ Type 'about' to learn more about me!`
         <div className="mb-4">💻 Technical Skills / Tools:</div>
         
         <div className="mb-2">
-          <div>• Programming:</div>
+          <div>• Languages:</div>
           <div className="ml-2 text-gray-300">Python, R, SQL, git/bash/CLI</div>
         </div>
         
@@ -154,7 +154,7 @@ Type 'about' to learn more about me!`
         
         <div className="mb-2">
           <div>• Cloud & Infrastructure:</div>
-          <div className="ml-2 text-gray-300">AWS (EC2), Docker, Ollama</div>
+          <div className="ml-2 text-gray-300">AWS (EC2), Vercel, Docker, Ollama</div>
         </div>
         
         <div className="mb-2">
