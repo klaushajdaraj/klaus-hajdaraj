@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'JetBrains Mono', monospace;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+}
+
+@layer components {
+  .terminal-text {
+    color: #4ade80;
+    font-family: 'JetBrains Mono', monospace;
+  }
+  
+  .terminal-bg {
+    background-color: #000000;
+  }
+  
+  .terminal-border {
+    border-color: #4ade80;
+  }
+  
+  .cursor {
+    background-color: #0f0;
+    vertical-align: middle;
+    width: .6em;
+    height: 1.2em;
+    margin-left: 0;
+    margin-right: 0;
+    animation: blink 1s step-end infinite;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+  }
+  
+  @keyframes blink {
+    0%, 50% {
+      opacity: 1;
+    }
+    51%, 100% {
+      opacity: 0;
+    }
+  }
+}
