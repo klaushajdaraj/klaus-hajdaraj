@@ -51,7 +51,7 @@ The 3D interactive badge component is inspired by Vercel's innovative [3D event 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/klaushajdaraj/klaus-hajdaraj.git
 cd klaus-hajdaraj
 ```
 
