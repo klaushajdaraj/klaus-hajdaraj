@@ -37,6 +37,9 @@ The 3D interactive badge component is inspired by Vercel's innovative [3D event 
 - **ESLint** - Code linting
 - **PostCSS** - CSS processing
 
+### Deployment & Hosting
+- **Vercel** - Production deployment and hosting platform
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -115,4 +118,4 @@ This is a personal portfolio project, but feel free to fork it and adapt it for 
 
 ---
 
-*Built with ❤️ using modern web technologies and AI assistance*
+*Built with ❤️ using modern web technologies and AI assistance • Deployed on [Vercel](https://vercel.com)*
