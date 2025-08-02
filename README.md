@@ -111,4 +111,4 @@ This is a personal portfolio project, but feel free to fork it and adapt it for 
 
 ---
 
-*Built with ❤️ using modern web technologies and AI assistance • Deployed on [Vercel](https://vercel.com)*
+*Built with ❤️ using modern web technologies and AI • Deployed on [Vercel](https://vercel.com)*
