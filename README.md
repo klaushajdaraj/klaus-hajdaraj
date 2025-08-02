@@ -1,4 +1,4 @@
-# Klaus Hajdaraj - Personal Portfolio Website
+# Personal Portfolio Website
 
 A modern, interactive personal portfolio website featuring a 3D badge component and terminal-style interface. Built with cutting-edge web technologies and AI assistance.
 
