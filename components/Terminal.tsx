@@ -324,7 +324,6 @@ Type 'about' to learn more about me!`
           <div>• Speaker & Presenter</div>
           <div className="ml-2 text-gray-300">- Data and AI Tirana Meetup</div>
           <div className="ml-2 text-gray-300">- CERGE-EI guest lectures</div>
-          <div className="ml-2 text-gray-300">- Epoka University guest lectures</div>
           <div className="ml-2 text-gray-300">- University of Tirana presentations</div>
         </div>
         
