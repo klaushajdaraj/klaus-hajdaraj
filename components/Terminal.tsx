@@ -232,7 +232,7 @@ Type 'about' to learn more about me!`
             rel="noopener noreferrer"
             className="text-blue-400 hover:text-blue-300 underline hover:no-underline transition-colors"
           >
-            https://www.linkedin.com/in/klaus-hajdaraj-a85933198/
+            www.linkedin.com/klaus-hajdaraj/
           </a>
         </div>
         
