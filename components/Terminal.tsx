@@ -71,7 +71,7 @@ Type 'about' to learn more about me!`
           .
         </div>
         <div className="mb-2">
-          🐍 I&apos;m always looking for the AI/ML latest trends and modern & open-source tools.<br />
+          🐍 I&apos;m always looking for modern, open-source tools and latest trends in AI/ML.<br />
           ⚒️ I love building innovative solutions that solve complex real-world problems.<br />
           ☕️ Feel free to reach out for a chat or collaboration!
         </div>
