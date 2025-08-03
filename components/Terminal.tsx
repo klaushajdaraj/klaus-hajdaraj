@@ -134,7 +134,7 @@ Type 'about' to learn more about me!`
         
         <div className="mb-2">
           <div>• Languages:</div>
-          <div className="ml-2 text-gray-300">Python, R, SQL, git/bash/CLI</div>
+          <div className="ml-2 text-gray-300">Python, R, SQL, git/bash (CLI)</div>
         </div>
         
         <div className="mb-2">
