@@ -159,7 +159,7 @@ Type 'about' to learn more about me!`
         
         <div className="mb-2">
           <div>• Python Ecosystem:</div>
-          <div className="ml-2 text-gray-300">uv, conda, pip-tools, pre-commit hooks, Sphinx (Documentation)</div>
+          <div className="ml-2 text-gray-300">uv, conda, pip-tools, pre-commit hooks, ruff, Hydra, Sphinx (Documentation)</div>
         </div>
         
         <div className="mb-2">
