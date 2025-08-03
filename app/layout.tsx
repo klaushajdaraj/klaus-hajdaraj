@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
@@ -21,7 +22,10 @@ export default function RootLayout({
         <link rel="icon" href="https://media.licdn.com/dms/image/v2/D4D03AQFtzpPRo2IgEQ/profile-displayphoto-shrink_800_800/B4DZcqwyDnGYAg-/0/1748769121436?e=1756339200&v=beta&t=GEZIWfAqu49k9lLzifwhRvXmYwXMoJZzAZDfIsyVipo" />
         <link rel="apple-touch-icon" href="https://media.licdn.com/dms/image/v2/D4D03AQFtzpPRo2IgEQ/profile-displayphoto-shrink_800_800/B4DZcqwyDnGYAg-/0/1748769121436?e=1756339200&v=beta&t=GEZIWfAqu49k9lLzifwhRvXmYwXMoJZzAZDfIsyVipo" />
       </head>
-      <body className="font-mono">{children}</body>
+      <body className="font-mono">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
