@@ -59,7 +59,7 @@ Type 'about' to learn more about me!`
     output: (
       <div className="text-white">
         <div className="mb-2">
-          👋🏻 Hi, I&apos;m Klaus, a junior data scientist at{' '}
+          👋🏻 Hi, I&apos;m Klaus, a data scientist at{' '}
           <a 
             href="https://www.msd.cz/cs/" 
             target="_blank" 
