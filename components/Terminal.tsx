@@ -50,7 +50,7 @@ Type any command to continue...`
   whoami: {
     output: `I'm Klaus.
 
-Junior Data Scientist @ MSD Czech Republic
+Data Scientist @ MSD Czech Republic
 Lifelong learner | Always eager to connect!
 
 Type 'about' to learn more about me!`
@@ -184,7 +184,7 @@ Type 'about' to learn more about me!`
         <div className="mb-4">💼 Work Experience:</div>
         
         <div className="mb-3">
-          <div>• Junior Data Scientist - MSD Czech Republic (Jul 2024 - Present)</div>
+          <div>• Data Scientist - MSD Czech Republic (Jul 2024 - Present)</div>
           <div className="ml-2 text-gray-300">- IT Emerging Talent Rotation Program participant</div>
           <div className="ml-2 text-gray-300">- Machine learning in animal health monitoring and manufacturing optimization</div>
           <div className="ml-2 text-gray-300">- Computer vision and image processing in genomics for Alzheimer&apos;s research</div>
