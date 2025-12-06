@@ -1,7 +1,13 @@
 "use client";
-import Badge3D from '@/components/Badge3D';
+import dynamic from 'next/dynamic';
+import { Suspense } from 'react';
 import Terminal from '@/components/Terminal';
 import Footer from '@/components/Footer';
+
+const Badge3D = dynamic(() => import('@/components/Badge3D'), {
+  ssr: false,
+  loading: () => <div className="w-full h-full flex items-center justify-center text-custom-green">Loading 3D...</div>,
+});
 
 export default function Home() {
   return (
